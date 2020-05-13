@@ -3,7 +3,14 @@
     display: block;
 }
 
-p
+ol
+{
+    color: chartreuse;
+    font-family: monospace;
+    background-color: chocolate;
+}
+
+ul
 {
     color: chartreuse;
     font-family: monospace;
