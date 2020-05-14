@@ -50,7 +50,7 @@ while (i)
         console.log(str);
     }
     else
-        alert('wronge!')
+        alert('false!')
 }
 
 var elements = document.getElementsByClassName("hide");
